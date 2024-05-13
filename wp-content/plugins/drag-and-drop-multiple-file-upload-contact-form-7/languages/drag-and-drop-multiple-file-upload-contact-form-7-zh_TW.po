@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Drag and Drop Multiple File Upload - Contact Form 7\n"
+"POT-Creation-Date: 2023-09-15 11:39-0700\n"
+"PO-Revision-Date: 2023-09-15 13:17-0700\n"
+"Last-Translator: Alex Lion <learnwithalex@gmail.com>\n"
+"Language-Team: Alex Lion <learnwithalex@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: drag-n-drop-upload-cf7.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/dnd-upload-cf7.php:71
+msgid "Settings"
+msgstr "設定"
+
+#: inc/dnd-upload-cf7.php:151 inc/dnd-upload-cf7.php:1053
+msgid "Drag & Drop Uploader - Settings"
+msgstr "拖放上傳程式設定"
+
+#: inc/dnd-upload-cf7.php:151
+msgid "Drag & Drop Upload"
+msgstr "拖放上傳"
+
+#: inc/dnd-upload-cf7.php:167
+msgid "The uploaded file exceeds the maximum upload size of your server."
+msgstr "上傳的檔案大小超過這台伺服器的上傳大小上限"
+
+#: inc/dnd-upload-cf7.php:168
+msgid "Uploading a file fails for any reason"
+msgstr "因不明原因導致上傳失敗"
+
+#: inc/dnd-upload-cf7.php:169
+msgid "Uploaded file is too large"
+msgstr "上傳的檔案大小超過上限"
+
+#: inc/dnd-upload-cf7.php:170
+msgid "Uploaded file is not allowed for file type"
+msgstr "系統不接受上傳檔案的檔案類型"
+
+#: inc/dnd-upload-cf7.php:171
+#, no-php-format
+msgid ""
+"Note : Some of the files are not uploaded ( Only %count% files allowed )"
+msgstr "注意事項: 某些檔案無法上傳 (僅允許上傳 %count% 個檔案)"
+
+#: inc/dnd-upload-cf7.php:172
+msgid "This field is required."
+msgstr "這是必填欄位"
+
+#: inc/dnd-upload-cf7.php:173
+msgid "The minimum file upload is"
+msgstr "檔案同時上傳數量下限:"
+
+#: inc/dnd-upload-cf7.php:459 inc/dnd-upload-cf7.php:1105
+msgid "Drag & Drop Files Here"
+msgstr "請將檔案拖放至這裡"
+
+#: inc/dnd-upload-cf7.php:460 inc/dnd-upload-cf7.php:1109
+msgid "or"
+msgstr "或"
+
+#: inc/dnd-upload-cf7.php:461 inc/dnd-upload-cf7.php:1113
+msgid "Browse Files"
+msgstr "瀏覽檔案"
+
+#: inc/dnd-upload-cf7.php:468
+msgid "deleting"
+msgstr "刪除"
+
+#: inc/dnd-upload-cf7.php:469
+msgid "Remove"
+msgstr "移除"
+
+#: inc/dnd-upload-cf7.php:480
+msgid "of"
+msgstr "/"
+
+#: inc/dnd-upload-cf7.php:662
+msgid "multiple file upload"
+msgstr "多重檔案上傳"
+
+#: inc/dnd-upload-cf7.php:674
+#, php-format
+msgid ""
+"Generate a form-tag for a file uploading field. For more details, see %s."
+msgstr "為檔案上傳欄位產生表單標籤。如需進一步了解，請參閱〈%s〉。"
+
+#: inc/dnd-upload-cf7.php:675
+msgid "https://contactform7.com/file-uploading-and-attachment/"
+msgstr "https://contactform7.com/file-uploading-and-attachment/"
+
+#: inc/dnd-upload-cf7.php:675
+msgid "File Uploading and Attachment"
+msgstr "檔案上傳及附件"
+
+#: inc/dnd-upload-cf7.php:685 inc/dnd-upload-cf7.php:688
+msgid "Field type"
+msgstr "欄位類型"
+
+#: inc/dnd-upload-cf7.php:689
+msgid "Required field"
+msgstr "必填欄位"
+
+#: inc/dnd-upload-cf7.php:694
+msgid "Name"
+msgstr "欄位名稱"
+
+#: inc/dnd-upload-cf7.php:698
+msgid "File size limit (bytes)"
+msgstr "檔案大小限制 (單位為 Byte，即位元組)"
+
+#: inc/dnd-upload-cf7.php:702
+msgid "Acceptable file types"
+msgstr "可接受的檔案類型"
+
+#: inc/dnd-upload-cf7.php:706
+msgid "Blacklist file types"
+msgstr "封鎖的檔案類型"
+
+#: inc/dnd-upload-cf7.php:710
+msgid "Minimum file upload"
+msgstr "檔案同時上傳數量下限"
+
+#: inc/dnd-upload-cf7.php:714
+msgid "Max file upload"
+msgstr "檔案同時上傳數量上限"
+
+#: inc/dnd-upload-cf7.php:718
+msgid "Id attribute"
+msgstr "ID 屬性"
+
+#: inc/dnd-upload-cf7.php:722
+msgid "Class attribute"
+msgstr "類別屬性"
+
+#: inc/dnd-upload-cf7.php:733
+msgid "Insert Tag"
+msgstr "插入標籤"
+
+#: inc/dnd-upload-cf7.php:737
+#, php-format
+msgid ""
+"To attach the file uploaded through this field to mail, you need to insert "
+"the corresponding mail-tag (%s) into the File Attachments field on the Mail "
+"tab."
+msgstr ""
+"要在電子郵件中附加這個上傳的檔案，必須將對應的電子郵件標籤 %s 插入 [電子郵"
+"件] 分頁中的 [檔案附件] 欄位。"
+
+#: inc/dnd-upload-cf7.php:1056
+#, php-format
+msgid "Checkout more features on %1$sPro Version%2$s"
+msgstr "進一步了解 %1$sPro 版%2$s的進階功能"
+
+#: inc/dnd-upload-cf7.php:1069
+msgid "Translate To"
+msgstr "本地化"
+
+#: inc/dnd-upload-cf7.php:1072
+msgid "Translated: "
+msgstr "譯文提供者: "
+
+#: inc/dnd-upload-cf7.php:1072
+msgid "abc"
+msgstr "abc"
+
+#: inc/dnd-upload-cf7.php:1080
+msgid "Send Attachment as links?"
+msgstr "將附件以連結傳送"
+
+#: inc/dnd-upload-cf7.php:1085
+msgid "Uploader Info"
+msgstr "上傳程式資訊"
+
+#: inc/dnd-upload-cf7.php:1089
+msgid "Heading Tag"
+msgstr "標題標籤"
+
+#: inc/dnd-upload-cf7.php:1104
+msgid "Drag & Drop Text"
+msgstr "拖放檔案文字"
+
+#: inc/dnd-upload-cf7.php:1112
+msgid "Browse Text"
+msgstr "瀏覽檔案文字"
+
+#: inc/dnd-upload-cf7.php:1117
+msgid "Error Message"
+msgstr "錯誤訊息"
+
+#: inc/dnd-upload-cf7.php:1121
+msgid "File exceeds server limit"
+msgstr "檔案大小超過伺服器限制"
+
+#: inc/dnd-upload-cf7.php:1125
+msgid "Failed to Upload"
+msgstr "無法上傳"
+
+#: inc/dnd-upload-cf7.php:1129
+msgid "Files too large"
+msgstr "檔案大小超過上限"
+
+#: inc/dnd-upload-cf7.php:1133
+msgid "Invalid file Type"
+msgstr "無效的檔案類型"
+
+#: inc/dnd-upload-cf7.php:1137
+msgid "Max File Limit"
+msgstr "檔案數量上限"
+
+#: inc/dnd-upload-cf7.php:1138
+#, no-php-format
+msgid ""
+"Example: `Note : Some of the files are not uploaded ( Only %count% files "
+"allowed )`"
+msgstr "範例訊息為「注意事項: 某些檔案無法上傳 (僅允許上傳 %count% 個檔案)」。"
+
+#: inc/dnd-upload-cf7.php:1141
+msgid "Minimum File"
+msgstr "檔案數量下限"
+
+#: inc/dnd-upload-cf7.php:1146
+msgid "Auto Delete Files"
+msgstr "自動刪除檔案"
+
+#: inc/dnd-upload-cf7.php:1150
+msgid "Don't delete files"
+msgstr "不要刪除檔案"
+
+#: inc/dnd-upload-cf7.php:1151 inc/dnd-upload-cf7.php:1160
+#: inc/dnd-upload-cf7.php:1169 inc/dnd-upload-cf7.php:1178
+msgid " Yes "
+msgstr " 啟用"
+
+#: inc/dnd-upload-cf7.php:1151
+msgid ""
+"The default will automatically delete files 1-2 hours after submissions, if "
+"you want to keep files check \"Yes\" above."
+msgstr ""
+"外掛的預設設定為檔案上傳後 1 至 2 小時便自動刪除。如果需要保留檔案，請點擊 "
+"[啟用]。"
+
+#: inc/dnd-upload-cf7.php:1155
+msgid "Spam Filtering Issue"
+msgstr "垃圾留言篩選"
+
+#: inc/dnd-upload-cf7.php:1159
+msgid "Fix Spam"
+msgstr "修正垃圾留言"
+
+#: inc/dnd-upload-cf7.php:1160
+msgid ""
+"If a “spam” answer is the response, Contact Form 7 will suspend the email "
+"and show a message saying, “There was an error trying to send your "
+"message\", force to send message by checking this option."
+msgstr ""
+"如果觸發了垃圾留言機制，Contact Form 7 會暫停電子郵件傳送，並顯示「傳送訊息時"
+"發生錯誤」訊息。啟用這項設定可以強制顯示這個訊息。"
+
+#: inc/dnd-upload-cf7.php:1164
+msgid "Use jQuery"
+msgstr "使用 jQuery"
+
+#: inc/dnd-upload-cf7.php:1168
+msgid "Enable jQuery"
+msgstr "啟用 jQuery"
+
+#: inc/dnd-upload-cf7.php:1169
+msgid ""
+"Activate this option in case there are any problems with our plugin when "
+"utilizing native Javascript."
+msgstr ""
+"啟用這項設定後，便能防止我們開發的外掛在執行原生 JavaScript 時發生問題。"
+
+#: inc/dnd-upload-cf7.php:1173
+msgid "Disable Button"
+msgstr "停用按鈕"
+
+#: inc/dnd-upload-cf7.php:1177
+msgid "Disable Submit button"
+msgstr "停用 [傳送] 按鈕"
+
+#: inc/dnd-upload-cf7.php:1178
+msgid "Disable submit button if there's an error."
+msgstr "如果發生錯誤，請停用 [傳送] 按鈕。"
+
+#: inc/dnd-upload-cf7.php:1239
+msgid "Pro Version"
+msgstr "Pro 版"
+
+#. Plugin Name of the plugin/theme
+msgid "Drag and Drop Multiple File Upload - Contact Form 7"
+msgstr "Drag and Drop Multiple File Upload - Contact Form 7"
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/glenwpcoder"
+msgstr "https://profiles.wordpress.org/glenwpcoder"
+
+#. Description of the plugin/theme
+msgid ""
+"This simple plugin create Drag & Drop or choose Multiple File upload in your "
+"Confact Form 7 Forms."
+msgstr ""
+"這個易用的外掛可以在 Contact Form 7 製作的聯絡表單中，加入拖放上傳或上傳多重"
+"檔案的上傳程式。"
+
+#. Author of the plugin/theme
+msgid "Glen Don L. Mongaya"
+msgstr "Glen Don L. Mongaya"
+
+#. Author URI of the plugin/theme
+msgid "http://codedropz.com"
+msgstr "http://codedropz.com"
